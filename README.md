@@ -15,5 +15,5 @@ I am a Frontend Developer, Electronic Engineer and STEM Tutor. I'm passionate ab
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmaStephi&show_icons=true&include_all_commits=true&hide_border=true" alt="OmaSteph's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaSteph&langs_count=8&layout=compact&hide_border=true" alt="OmaSteph's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmaSteph&show_icons=true&include_all_commits=true&hide_border=true" alt="OmaSteph's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaSteph&langs_count=8&layout=compact&hide_border=true" alt="OmaSteph's GitHub stats" /> |
 | ------------- | ------------- |
