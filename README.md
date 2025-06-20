@@ -9,7 +9,7 @@ I am a Frontend Developer, Electronic Engineer and STEM Tutor. I'm passionate ab
 - 🌱 I’m currently learning JavaScript, Reactjs, Nextjs and TypeScript.
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://C:/Users/User/Documents/Ogunwa%20Chioma%20CV%20recent.pdf) and contact me by emailing omastephanie25@gmail.com.
+- 📫 You can [view my resume](file:///C:/Users/User/Documents/Ogunwa%20Chioma%20Resume.pdf) and contact me by emailing omastephanie25@gmail.com.
 
 ---
 
