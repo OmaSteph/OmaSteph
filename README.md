@@ -1,15 +1,15 @@
 # Hello, welcome 👋🏾
 
-I am a Frontend Developer, Electronic Engineer and STEM Tutor. I'm passionate about sharing knowledge, documentation, creating user friendly and responsive web applications and others.
+I am a Frontend Developer, Electronic Engineer and STEM Tutor. I'm passionate about sharing knowledge, documentation, creating clean, user friendly and responsive web applications, scalable solutions and others.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Tinyuka 2024.
-- 🌱 I’m currently learning JavaScript, Reactjs, Nextjs and TypeScript.
+- 🌱 My current stack includes JavaScript, TypeScript, Reactjs, Vuejs, Nextjs, Tailwind CSS, React Router and Axios for API integrations.
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1fJQY2Gmf5u4cNOguToSHwTymCetpPzce/view?usp=drivesdk) and contact me by emailing omastephanie25@gmail.com.
+- 📫 You can [view my resume](https://github.com/user-attachments/files/21148508/Ogunwa.Chioma.Resume.pdf) and contact me by emailing omastephanie25@gmail.com.
 
 ---
 
